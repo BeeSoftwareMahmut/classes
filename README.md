@@ -1,4 +1,4 @@
 # classes
 project about classes (burası beyler)
 
-this project includes a problem aBout using classes in C#.
+this project includes a problem about using classes in C#.
